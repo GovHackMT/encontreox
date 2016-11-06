@@ -14,7 +14,7 @@ npm install -g angular-cli
 
 2. Clone o projeto e rode a aplicação
 ```
-https://github.com/GovHackMT/encontreox.git
+git clone https://github.com/GovHackMT/encontreox.git
 cd encontreox/dashboard
 npm install
 ng serve
