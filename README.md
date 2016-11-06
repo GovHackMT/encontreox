@@ -1,4 +1,4 @@
-<img href="https://github.com/GovHackMT/encontreox/raw/master/logo%20chatman%20even%20better.png" width=250 height=250/>
+<img src="https://github.com/GovHackMT/encontreox/raw/master/logo%20chatman%20even%20better.png" width=250 height=250/>
 # Problema
 O Governo do Estado possui muitos orgãos, tais como, a SEDUC, SES e SESP tanto na capital quanto no interior.
 Cada orgão é responsável pelas informações que são disponibilizadas.
