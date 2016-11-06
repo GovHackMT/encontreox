@@ -1,4 +1,4 @@
-<img href="https://raw.githubusercontent.com/GovHackMT/encontreox/master/logo%20chatman%20even%20better.png" width=250 height=250/>
+<img src="https://github.com/GovHackMT/encontreox/raw/master/logo%20chatman%20even%20better.png" width=250 height=250/>
 # Problema
 O Governo do Estado possui muitos orgãos, tais como, a SEDUC, SES e SESP tanto na capital quanto no interior.
 Cada orgão é responsável pelas informações que são disponibilizadas.
@@ -77,5 +77,5 @@ Governo - De nada, se precisar estamos aqui.
 - [Bluemix](https://console.ng.bluemix.net) - Infraestrutura de serviços
 - [Azure](https://azure.microsoft.com/Azure) - Painel administrativo
 
-# Liçença
+# Licença
 Esse serviço utliza a [licença Apache 2.0](https://github.com/node-red/node-red/blob/master/LICENSE) para o chat bot e o painel administrativo.
