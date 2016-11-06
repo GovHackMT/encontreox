@@ -1,6 +1,6 @@
 # Introdução
 
-Aplicação Dashboard que mostra as informações oriundas do processamento das informações do Watson.
+Aplicação Dashboard que mostra as informações oriundas do processamento do Watson.
 
 Disponível em [http://govresponde.azurewebsites.net](http://govresponde.azurewebsites.net).
 
